@@ -25,6 +25,8 @@ Technologies Used: Python, Tkinter.
 Outcome: A reliable password generator with customizable options.
 
 Repository Structure
+
+```bash
 CODSOFT/
 │
 ├── Calculator.py
